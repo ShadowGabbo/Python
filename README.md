@@ -1,2 +1,2 @@
-# PythonTutorial
-Python code tutorial
+# Python
+My code written in Python3
